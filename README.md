@@ -9,18 +9,6 @@
 
 *Construindo soluções através da tecnologia.*
 
-<a href="www.linkedin.com/in/emanuel-nogueira-1454b42b2">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://github.com/Nuillexe">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://www.instagram.com/nuill.exe/">
-  <img src="https://img.shields.io/badge/Instagram-D63384?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-</div>
-
 ---
 
 ## 💻 Sobre mim
@@ -116,6 +104,7 @@ Material didático desenvolvido para o minicurso **"Introdução ao JavaFX: Cons
 - **Robótica Educacional:** quatro anos de formação prática envolvendo lógica de programação, Arduino e robótica.
 - **Projeto Futuro Digital (CEPEDI):** formação em desenvolvimento Back-end com Python e Django, com experiência em projeto colaborativo utilizando metodologias ágeis e Jira.
 - **WeekIT:** experiência como instrutor de minicurso de introdução ao JavaFX.
+- **GIPAR:** Faço parte do grupo de pesquisa GIPAR do IFBA campus Vitoria da Conquista, um grupo de inovação e pesquisa em automação e robótica. Estou na linha de pesquisa de LLMS e sua integração a robotica
 
 ---
 
@@ -136,18 +125,19 @@ Material didático desenvolvido para o minicurso **"Introdução ao JavaFX: Cons
 
 <div align="center">
 
-<a href="SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+
+<a href="www.linkedin.com/in/emanuel-nogueira-1454b42b2">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://github.com/Nuillexe">
-  <img src="https://img.shields.io/badge/GitHub-Nuillexe-181717?style=for-the-badge&logo=github&logoColor=white">
+
+<a href="https://www.instagram.com/nuill.exe/">
+  <img src="https://img.shields.io/badge/Instagram-D63384?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="mailto:SEU_EMAIL">
+
+<a href="mailto:nuill.exe@gmail.com">
   <img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <br><br>
-
-**Obrigado pela visita! Sempre aprendendo e transformando ideias em soluções.** 🚀
 
 </div>
