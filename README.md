@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://www.instagram.com/nuill.exe/">
-  <img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/Instagram-D63384?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 </div>
