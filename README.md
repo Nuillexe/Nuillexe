@@ -3,12 +3,13 @@
   README de perfil: Nuillexe
   Banner personalizado: assets/banner.svg
 -->
+<div align="center">
 # 👋 Olá, seja bem-vindo ao meu GitHub!
 
 **Emanuel Fonseca Nogueira | Desenvolvedor de Software**
 
 *Construindo soluções através da tecnologia.*
-
+</div>
 ---
 
 ## 💻 Sobre mim
@@ -124,8 +125,6 @@ Material didático desenvolvido para o minicurso **"Introdução ao JavaFX: Cons
 ## 📫 Contato
 
 <div align="center">
-
-
 <a href="www.linkedin.com/in/emanuel-nogueira-1454b42b2">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -137,7 +136,5 @@ Material didático desenvolvido para o minicurso **"Introdução ao JavaFX: Cons
 <a href="mailto:nuill.exe@gmail.com">
   <img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-<br><br>
 
 </div>
