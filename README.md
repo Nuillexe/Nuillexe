@@ -78,19 +78,19 @@ Minha trajetória envolve projetos individuais e colaborativos, desenvolvimento 
 
 ## 🚀 Projetos em destaque
 
-### 🩺 [Triagem-ADH](LINK_REPOSITORIO_ADH)
+### 🩺 [Triagem-ADH]([LINK_REPOSITORIO_ADH](https://github.com/Nuillexe/adh-triagem))
 
 Sistema de gestão e relatórios desenvolvido para a Associação de Diabéticos e Hipertensos de Vitória da Conquista. A aplicação permite cadastrar participantes, registrar medições de glicemia e pressão arterial, organizar informações e gerar relatórios para auxiliar a associação no acompanhamento dos atendimentos.
 
 **Tecnologias:** Python, Django, PostgreSQL, HTML, CSS e Bootstrap.
 
-### 📚 [LibQueue](LINK_REPOSITORIO_LIBQUEUE)
+### 📚 [LibQueue](https://github.com/Nuillexe/school-library-manager)
 
 Sistema de gerenciamento de biblioteca desenvolvido em Java e JavaFX, aplicando conceitos de Programação Orientada a Objetos, Estruturas de Dados, filas de prioridade e arquitetura inspirada no padrão MVC. O projeto utiliza persistência de dados em arquivos `.txt` e teve um artigo científico submetido ao ERI-ES, atualmente em avaliação.
 
 **Tecnologias:** Java, JavaFX, Maven e Estruturas de Dados.
 
-### 🌱 [Sistema de Irrigação Inteligente](LINK_REPOSITORIO_IRRIGACAO)
+### 🌱 [Sistema de Irrigação Inteligente](https://github.com/Nuillexe/sempre-verde-project)
 
 Projeto de iniciação científica desenvolvido durante o ensino médio, com a proposta de criar um sistema automatizado e inteligente de irrigação para uma horta. A solução buscava identificar os momentos mais adequados para realizar a irrigação, favorecendo o desenvolvimento das plantas e reduzindo o desperdício de água.
 
@@ -98,7 +98,7 @@ O projeto foi submetido à **FEBRACE (Feira Brasileira de Ciências e Engenharia
 
 **Área:** Robótica, automação e sustentabilidade.
 
-### 💻 [Minicurso de JavaFX - WeekIT](LINK_REPOSITORIO_WEEKIT)
+### 💻 [Minicurso de JavaFX - WeekIT](https://github.com/Nuillexe/minicurso-javafx)
 
 Material didático desenvolvido para o minicurso **"Introdução ao JavaFX: Construindo uma Interface de Cadastro de Clientes"**, ministrado durante o evento WeekIT. O conteúdo aborda os fundamentos do JavaFX, construção de interfaces gráficas e utilização do Scene Builder em uma aplicação prática de cadastro de clientes.
 
