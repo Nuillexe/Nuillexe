@@ -3,13 +3,6 @@
   README de perfil: Nuillexe
   Banner personalizado: assets/banner.svg
 -->
-
-<div align="center">
-
-<img src="./assets/banner.svg" width="100%" alt="Emanuel Fonseca Nogueira - Desenvolvedor de Software">
-
-<br>
-
 # 👋 Olá, seja bem-vindo ao meu GitHub!
 
 **Emanuel Fonseca Nogueira | Desenvolvedor de Software**
