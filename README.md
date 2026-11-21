@@ -81,7 +81,7 @@ Minha trajetória envolve projetos individuais e colaborativos, desenvolvimento 
 
 ## 🚀 Projetos em destaque
 
-### 🩺 [Triagem-ADH]([LINK_REPOSITORIO_ADH](https://github.com/Nuillexe/adh-triagem))
+### 🩺 [Triagem-ADH](https://github.com/Nuillexe/adh-triagem)
 
 Sistema de gestão e relatórios desenvolvido para a Associação de Diabéticos e Hipertensos de Vitória da Conquista. A aplicação permite cadastrar participantes, registrar medições de glicemia e pressão arterial, organizar informações e gerar relatórios para auxiliar a associação no acompanhamento dos atendimentos.
 
